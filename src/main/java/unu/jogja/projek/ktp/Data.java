@@ -18,10 +18,6 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 import javax.xml.bind.annotation.XmlRootElement;
 
-/**
- *
- * @author Isfandiyar
- */
 @Entity
 @Table(name = "data")
 @XmlRootElement
