@@ -16,10 +16,6 @@ import javax.persistence.criteria.Root;
 import unu.jogja.projek.ktp.exceptions.NonexistentEntityException;
 import unu.jogja.projek.ktp.exceptions.PreexistingEntityException;
 
-/**
- *
- * @author Isfandiyar
- */
 public class DataJpaController implements Serializable {
 
     public DataJpaController(EntityManagerFactory emf) {
