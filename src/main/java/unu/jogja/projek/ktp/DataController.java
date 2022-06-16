@@ -26,10 +26,6 @@ import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.view.RedirectView;
 import unu.jogja.projek.ktp.coba.exceptions.NonexistentEntityException;
 
-/**
- *
- * @author Isfandiyar
- */
 @Controller
 public class DataController {
     
